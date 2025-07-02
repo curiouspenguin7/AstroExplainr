@@ -1,0 +1,9 @@
+# OpenAI API Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: HuggingFace API for alternative models
+HUGGINGFACE_API_KEY=your_huggingface_api_key_here
+
+# App Configuration
+DEBUG=False
+LOG_LEVEL=INFO 
